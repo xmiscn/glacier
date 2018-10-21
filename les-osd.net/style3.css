@@ -1,0 +1,38 @@
+
+
+html{
+    height: 100%;
+}
+body{
+    font-family: 'Lato', sans-serif;
+}
+
+h1{
+    font-weight: 700;
+    font-size: 5em;
+}
+h1, h3, p{
+    color: #807e7e;
+}
+hr{
+    width: 900px;
+    border-top: 1px solid #f8f8f8;
+    border-bottom: 1px solid rgba(0,0,0,0.2);
+}
+#card{
+    color: darkblue;
+    padding-top: 100px;
+    margin-bottom: 50px;
+}
+#container{
+    padding-top: 100px;
+}
+p{
+    margin-top: 15px;
+}
+img.resize {
+ width:200px;
+  height:40px;
+  max-width:50%;
+  max-height:50%;
+}
